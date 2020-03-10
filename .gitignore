@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.elf
+*.map
+obj/*
+bin/*
+inc/lut.h
