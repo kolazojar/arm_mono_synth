@@ -1,5 +1,5 @@
 # Arm Mono Synth
-This project is currently a work in progress. The goal is to create a basic monophonic synthesizer using an STM32F4 Discovery Board and the onboard DAC.
+This project is currently a work in progress. The goal is to create a basic monophonic synthesizer using the STM32 Discovery Board.
 ## Required Tools
 * [STM32F4 Discovery Board](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
 * [GNU Arm Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm)
